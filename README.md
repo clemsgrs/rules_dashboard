@@ -2,8 +2,7 @@
 
 Dashboard to display basic info &amp; track trends
 
-![Zinee Platine](https://raw.githack.com/clemsgrs/rules_dashboard/master/dashboards/common/1/zinee.html)
-
+https://raw.githack.com/clemsgrs/rules_dashboard/master/dashboards/common/1/zinee.html
 
 ## TODO List
 
