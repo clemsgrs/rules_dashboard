@@ -3,6 +3,7 @@
 Dashboard to display basic info &amp; track trends
 
 https://raw.githack.com/clemsgrs/rules_dashboard/master/dashboards/common/1/zinee.html
+[Zinée](https://raw.githack.com/clemsgrs/rules_dashboard/master/dashboards/common/1/zinee.html)
 
 ## TODO List
 

@@ -1,0 +1,25 @@
+<html>
+  <body style="margin: 0px">
+    <div style="display: flex">
+      <div style="width: 20%">
+        <ul style="list-style-type: none">
+          <li>
+            <button id="button-1">Sales</button>
+          </li>
+          <li>
+            <button id="button-2">Offers</button>
+          </li>
+        </ul>
+      </div>
+      <iframe id="frame" style="width: 80%; height: 100vh" src=""></iframe>
+    </div>
+    <script>
+      const frame = document.getElementById('frame');
+
+      document.getElementById('button-1').onclick = () =>
+        (frame.src = '/Users/clems/Code/git/rules_dashboard/dashboards/sales/platinium/1/zinee.html');
+      document.getElementById('button-2').onclick = () =>
+        (frame.src = '/Users/clems/Code/git/rules_dashboard/dashboards/offers/platinium/1/zinee.html');
+    </script>
+  </body>
+</html>
